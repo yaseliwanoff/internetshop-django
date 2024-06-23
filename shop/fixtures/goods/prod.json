@@ -1,0 +1,58 @@
+[
+    {
+        "model": "goods.products",
+        "pk": 1,
+        "fields": {
+            "name": "������ ������ � ��� �����",
+            "slug": "chajnyj-stolik-i-tri-stula",
+            "description": "�������� �� ��� ������� � ������������ ������ ��� ��������� �������.",
+            "image": "goods_images/set_of_tea_table_and_three_chairs.jpg",
+            "price": "150.00",
+            "descount": "0.00",
+            "quantity": 10,
+            "category": 6
+        }
+    },
+    {
+        "model": "goods.products",
+        "pk": 2,
+        "fields": {
+            "name": "������ ������ � ��� �����",
+            "slug": "chajnyj-stolik-i-dva-stula",
+            "description": "����� �� ����� � ���� ������� � ����������������� �����.",
+            "image": "goods_images/set_of_tea_table_and_three_chairs_YDl6irY.jpg",
+            "price": "93.00",
+            "descount": "0.00",
+            "quantity": 5,
+            "category": 6
+        }
+    },
+    {
+        "model": "goods.products",
+        "pk": 3,
+        "fields": {
+            "name": "������������ �������",
+            "slug": "dvuhspalnaya-krovat",
+            "description": "������� ������������ � ������������� � ������ ����� ������������.",
+            "image": "goods_images/double_bed.jpg",
+            "price": "670.00",
+            "descount": "0.00",
+            "quantity": 15,
+            "category": 7
+        }
+    },
+    {
+        "model": "goods.products",
+        "pk": 4,
+        "fields": {
+            "name": "�������� ���� � ���������",
+            "slug": "kuhonnyj-stol-s-rakovinoj",
+            "description": "�������� ���� ��� ����� � ���������� ��������� � ��������.",
+            "image": "goods_images/kitchen_table_2.jpg",
+            "price": "365.00",
+            "descount": "0.00",
+            "quantity": 4,
+            "category": 6
+        }
+    }
+]
